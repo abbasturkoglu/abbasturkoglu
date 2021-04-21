@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbasturkoglu
 - 👀 I’m interested in image processing and artificial intelligence.
-- 🌱 I’m currently learning CUDA and Python.
+- 🌱 I’m currently learning CUDA.
 - 📫 You can contact me via form on https://abbasturkoglu.com.tr
 
 <!---
