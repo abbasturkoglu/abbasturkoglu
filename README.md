@@ -5,7 +5,7 @@
 
 [![trophy](http://github-readme-stats-notha99y.vercel.app/api?username=abbasturkoglu&theme=great-gatsby&show_icons=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=abbasturkoglu](http://github-readme-stats-notha99y.vercel.app/api/top-langs/?username=abbasturkoglu&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook))](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](http://github-readme-stats-notha99y.vercel.app/api/top-langs/?username=abbasturkoglu&theme=great-gatsby&show_icons=true&hide_border=true&hide=jupyter%20notebook)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 abbasturkoglu/abbasturkoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
