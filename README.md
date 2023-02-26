@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbasturkoglu
-- 👀 I’m interested in image processing and deep  learning.
+- 👀 I’m interested in computer vision.
 <!--- - 🌱 I’m currently learning Sequence Models.--->
 - 📫 You can contact me via form on https://abbasturkoglu.com.tr
 
