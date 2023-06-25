@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbasturkoglu
 - 👀 I’m interested in computer vision.
 <!--- - 🌱 I’m currently learning Sequence Models.--->
-- 📫 You can contact me via form on https://abbasturkoglu.com.tr
+<!--- - 📫 You can contact me via form on https://abbasturkoglu.com.tr--->
 
 [![trophy](http://github-readme-stats-notha99y.vercel.app/api?username=abbasturkoglu&theme=great-gatsby&show_icons=true&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
